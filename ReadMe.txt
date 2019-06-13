@@ -1,5 +1,5 @@
 The code is for the work:
-````
+```
 @inproceedings{jiang2015coupled,
   title={Coupled discriminant multi-manifold analysis with application to low-resolution face recognition},
   author={Jiang, Junjun and Hu, Ruimin and Han, Zhen and Chen, Liang and Chen, Jun},
@@ -18,7 +18,7 @@ The code is for the work:
   year={2016},
   publisher={Elsevier}
 }
-````
+```
 
  You can run the Demo_CDMMA
 
